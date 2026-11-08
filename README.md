@@ -4,3 +4,6 @@ The privacy policy for [Mawqoot](https://play.google.com/store/apps/details?id=c
 https://hishamhikami.github.io/mawqoot-privacy-policy/
 
 To change it, edit `index.html` and update the effective date.
+
+The terms of service are in `terms/index.html`, served at
+https://hishamhikami.github.io/mawqoot-privacy-policy/terms/
